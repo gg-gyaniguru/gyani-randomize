@@ -1,0 +1,23 @@
+{
+  "name": "gyani-randomize",
+  "version": "1.0.0",
+  "description": "gyani-randomize",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gg-gyaniguru/gyani-randomize.git"
+  },
+  "keywords": [
+    "randomize"
+  ],
+  "author": "Kishor Yadav",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gg-gyaniguru/gyani-randomize/issues"
+  },
+  "homepage": "https://github.com/gg-gyaniguru/gyani-randomize#readme"
+}
